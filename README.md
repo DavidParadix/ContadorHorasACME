@@ -102,4 +102,5 @@ flecha verde en la esquina.
 NOTA: Podemos también ejecutar directamente con el python y su ID que ya viene
 en la instalación solo da clic derecho y da clic en "Edit With IDLE" y luego
 lo ejecutan en el menú Run y clic en Run Module.
+
 ENTORNO DE EJECUCIÓN: https://colab.research.google.com/drive/1BKqX8NImWLSyvOP5hOmoRDTaafQ-Xjfr?usp=sharing 
